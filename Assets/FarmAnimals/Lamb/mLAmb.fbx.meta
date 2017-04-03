@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 0b52944bf35da6646bb0ae8f51db3089
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Lamb
+    100002: //RootNode
+    100004: Quadruped_Skeleton
+    100006: Quadruped_Skeleton_BLFemur
+    100008: Quadruped_Skeleton_BLFootBone1
+    100010: Quadruped_Skeleton_BLFootBone2
+    100012: Quadruped_Skeleton_BLFootBone3
+    100014: Quadruped_Skeleton_BLFootRoot
+    100016: Quadruped_Skeleton_BLLegRoot
+    100018: Quadruped_Skeleton_BLMetarsal
+    100020: Quadruped_Skeleton_BLTibia
+    100022: Quadruped_Skeleton_BRFemur
+    100024: Quadruped_Skeleton_BRFootBone1
+    100026: Quadruped_Skeleton_BRFootBone2
+    100028: Quadruped_Skeleton_BRFootBone3
+    100030: Quadruped_Skeleton_BRFootRoot
+    100032: Quadruped_Skeleton_BRLegRoot
+    100034: Quadruped_Skeleton_BRMetarsal
+    100036: Quadruped_Skeleton_BRTibia
+    100038: Quadruped_Skeleton_Chest
+    100040: Quadruped_Skeleton_Chest1
+    100042: Quadruped_Skeleton_ChestEffector
+    100044: Quadruped_Skeleton_eff
+    100046: Quadruped_Skeleton_eff1
+    100048: Quadruped_Skeleton_eff2
+    100050: Quadruped_Skeleton_eff4
+    100052: Quadruped_Skeleton_eff6
+    100054: Quadruped_Skeleton_eff7
+    100056: Quadruped_Skeleton_GlobalSRT
+    100058: Quadruped_Skeleton_LFootBone1
+    100060: Quadruped_Skeleton_LFootBone2
+    100062: Quadruped_Skeleton_LFootBone3
+    100064: Quadruped_Skeleton_LFootRoot
+    100066: Quadruped_Skeleton_LRoot
+    100068: Quadruped_Skeleton_LShin
+    100070: Quadruped_Skeleton_LShoulder
+    100072: Quadruped_Skeleton_LShoulderRoot
+    100074: Quadruped_Skeleton_LThigh
+    100076: Quadruped_Skeleton_RFootBone1
+    100078: Quadruped_Skeleton_RFootBone2
+    100080: Quadruped_Skeleton_RFootBone3
+    100082: Quadruped_Skeleton_RFootRoot
+    100084: Quadruped_Skeleton_root3
+    100086: Quadruped_Skeleton_RRoot
+    100088: Quadruped_Skeleton_RShin
+    100090: Quadruped_Skeleton_RShoulder
+    100092: Quadruped_Skeleton_RShoulderRoot
+    100094: Quadruped_Skeleton_RThigh
+    100096: Quadruped_Skeleton_Spine1
+    100098: Quadruped_Skeleton_Spine2
+    100100: Quadruped_Skeleton_Spine3
+    100102: Quadruped_Skeleton_Spine4
+    100104: Quadruped_Skeleton_Spine5
+    100106: Quadruped_Skeleton_SpineRoot
+    100108: Quadruped_Skeleton_SpineRoot1
+    100110: Quadruped_Skeleton_Tail1
+    100112: Quadruped_Skeleton_UpperBody
+    100114: Scene_Root
+    400000: Lamb
+    400002: //RootNode
+    400004: Quadruped_Skeleton
+    400006: Quadruped_Skeleton_BLFemur
+    400008: Quadruped_Skeleton_BLFootBone1
+    400010: Quadruped_Skeleton_BLFootBone2
+    400012: Quadruped_Skeleton_BLFootBone3
+    400014: Quadruped_Skeleton_BLFootRoot
+    400016: Quadruped_Skeleton_BLLegRoot
+    400018: Quadruped_Skeleton_BLMetarsal
+    400020: Quadruped_Skeleton_BLTibia
+    400022: Quadruped_Skeleton_BRFemur
+    400024: Quadruped_Skeleton_BRFootBone1
+    400026: Quadruped_Skeleton_BRFootBone2
+    400028: Quadruped_Skeleton_BRFootBone3
+    400030: Quadruped_Skeleton_BRFootRoot
+    400032: Quadruped_Skeleton_BRLegRoot
+    400034: Quadruped_Skeleton_BRMetarsal
+    400036: Quadruped_Skeleton_BRTibia
+    400038: Quadruped_Skeleton_Chest
+    400040: Quadruped_Skeleton_Chest1
+    400042: Quadruped_Skeleton_ChestEffector
+    400044: Quadruped_Skeleton_eff
+    400046: Quadruped_Skeleton_eff1
+    400048: Quadruped_Skeleton_eff2
+    400050: Quadruped_Skeleton_eff4
+    400052: Quadruped_Skeleton_eff6
+    400054: Quadruped_Skeleton_eff7
+    400056: Quadruped_Skeleton_GlobalSRT
+    400058: Quadruped_Skeleton_LFootBone1
+    400060: Quadruped_Skeleton_LFootBone2
+    400062: Quadruped_Skeleton_LFootBone3
+    400064: Quadruped_Skeleton_LFootRoot
+    400066: Quadruped_Skeleton_LRoot
+    400068: Quadruped_Skeleton_LShin
+    400070: Quadruped_Skeleton_LShoulder
+    400072: Quadruped_Skeleton_LShoulderRoot
+    400074: Quadruped_Skeleton_LThigh
+    400076: Quadruped_Skeleton_RFootBone1
+    400078: Quadruped_Skeleton_RFootBone2
+    400080: Quadruped_Skeleton_RFootBone3
+    400082: Quadruped_Skeleton_RFootRoot
+    400084: Quadruped_Skeleton_root3
+    400086: Quadruped_Skeleton_RRoot
+    400088: Quadruped_Skeleton_RShin
+    400090: Quadruped_Skeleton_RShoulder
+    400092: Quadruped_Skeleton_RShoulderRoot
+    400094: Quadruped_Skeleton_RThigh
+    400096: Quadruped_Skeleton_Spine1
+    400098: Quadruped_Skeleton_Spine2
+    400100: Quadruped_Skeleton_Spine3
+    400102: Quadruped_Skeleton_Spine4
+    400104: Quadruped_Skeleton_Spine5
+    400106: Quadruped_Skeleton_SpineRoot
+    400108: Quadruped_Skeleton_SpineRoot1
+    400110: Quadruped_Skeleton_Tail1
+    400112: Quadruped_Skeleton_UpperBody
+    400114: Scene_Root
+    4300000: Lamb
+    7400000: POSE
+    7400002: Walk
+    7400004: Idle
+    7400006: GrazeA
+    7400008: GrazeB
+    7400010: Run
+    7400012: Attack
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Lamb
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.025
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
